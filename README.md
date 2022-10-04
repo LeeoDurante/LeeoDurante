@@ -2,9 +2,18 @@
 <div align="center" style="display: inline_block"> <p>Cursando Desenvolvedor Full Stack: Módulos Completos:</p>
 <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div>
+<img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Leo-BS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+ <br/>
+ <p/> Cursando: </p>
+ <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+ </div>
 <br/>
-
+<div align="center">
+  <a href="https://github.com/LeeoDurante">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeeoDurante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeoDurante&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
   <div div align="center"> 
     <h2 align="center"> Redes Sociais</h2>
